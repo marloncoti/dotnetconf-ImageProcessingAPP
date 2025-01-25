@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "qqoC8HFI6ek=",
+  "success": true,
+  "projectFilePath": "/Users/marloncoti/dotneconf2024/Lambda/ImageUploaderLambda/ImageUploaderLambda.csproj",
+  "expectedPackageFiles": [
+    "/Users/marloncoti/.nuget/packages/amazon.lambda.core/2.5.0/amazon.lambda.core.2.5.0.nupkg.sha512",
+    "/Users/marloncoti/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.4.4/amazon.lambda.serialization.systemtextjson.2.4.4.nupkg.sha512",
+    "/Users/marloncoti/.nuget/packages/awssdk.core/3.7.401.4/awssdk.core.3.7.401.4.nupkg.sha512",
+    "/Users/marloncoti/.nuget/packages/awssdk.dynamodbv2/3.7.405.10/awssdk.dynamodbv2.3.7.405.10.nupkg.sha512",
+    "/Users/marloncoti/.nuget/packages/awssdk.s3/3.7.412.4/awssdk.s3.3.7.412.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+/Users/marloncoti/dotneconf2024/Lambda/ImageUploaderLambda/bin/Release/net9.0/publish/ImageUploaderLambda.dll
+/Users/marloncoti/dotneconf2024/Lambda/ImageUploaderLambda/bin/Release/net9.0/publish/ImageUploaderLambda.deps.json
+/Users/marloncoti/dotneconf2024/Lambda/ImageUploaderLambda/bin/Release/net9.0/publish/ImageUploaderLambda.pdb
+/Users/marloncoti/dotneconf2024/Lambda/ImageUploaderLambda/bin/Release/net9.0/publish/Amazon.Lambda.Core.dll
+/Users/marloncoti/dotneconf2024/Lambda/ImageUploaderLambda/bin/Release/net9.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/marloncoti/dotneconf2024/Lambda/ImageUploaderLambda/bin/Release/net9.0/publish/AWSSDK.Core.dll
+/Users/marloncoti/dotneconf2024/Lambda/ImageUploaderLambda/bin/Release/net9.0/publish/AWSSDK.DynamoDBv2.dll
+/Users/marloncoti/dotneconf2024/Lambda/ImageUploaderLambda/bin/Release/net9.0/publish/AWSSDK.S3.dll
